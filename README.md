@@ -6,7 +6,7 @@ Bem-vindo ao repositório do projeto **Disque011**! Este é o Projeto Integrador
 
 <br>
 
-![ODS-11 – PNUD – Agenda 2030 Oeste do Paraná](https://oestepr2030.org.br/wp-content/uploads/2018/07/11-Cidades-e-Comunidades-Sustentent%C3%A1veis-.-Vetorizada.-JPG.-Com-t%C3%ADtulo.-Colorida.jpg)
+![](https://www.acij.com.br/index/wp-content/uploads/2020/10/ods-11-preve-cidades-e-comunidades-sustentaveis-1024x538.jpg)
 
 <br>
 
