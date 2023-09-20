@@ -1,8 +1,8 @@
-# Disque011 - Rede Social para Denúncias de Situações Cotidianas relacionadas ao ODS 11 da ONU :earth_americas::leaves:
+# AlertUp - Rede Social para Denúncias de Situações Cotidianas relacionadas ao ODS 11 da ONU :earth_americas::leaves:
 
 <br>
 
-Bem-vindo ao repositório do projeto **Disque011**! Este é o Projeto Integrador desenvolvido pelos integrantes do Bootcamp da Generation Brasil, uma rede social voltada para denúncias de situações cotidianas relacionadas ao Objetivo de Desenvolvimento Sustentável (ODS) 11 da ONU. Nosso objetivo é criar uma plataforma que permita aos cidadãos denunciar problemas urbanos, como transporte público não funcionando, descarte inadequado de lixo, buracos na rua, entre outros, para promover um ambiente urbano mais sustentável e melhorar a qualidade de vida nas cidades.
+Bem-vindo ao repositório do projeto **AlertUp**! Este é o Projeto Integrador desenvolvido pelos integrantes do Bootcamp da Generation Brasil, uma rede social voltada para denúncias de situações cotidianas relacionadas ao Objetivo de Desenvolvimento Sustentável (ODS) 11 da ONU. Nosso objetivo é criar uma plataforma que permita aos cidadãos denunciar problemas urbanos, como transporte público não funcionando, descarte inadequado de lixo, buracos na rua, entre outros, para promover um ambiente urbano mais sustentável e melhorar a qualidade de vida nas cidades.
 
 <br>
 
@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Funcionalidades
 
-O Disque011 oferece uma série de funcionalidades para os usuários, incluindo:
+O AlertUp oferece uma série de funcionalidades para os usuários, incluindo:
 
 - Registro e autenticação de usuários.
 - Criação e edição de denúncias.
@@ -72,4 +72,4 @@ Para executar o projeto localmente, siga estas etapas:
 
 Acesse o aplicativo em seu navegador em `http://localhost:3000/` e comece a explorar.
 
-Obrigado por se interessar pelo projeto **Disque011**! Esperamos que esta plataforma ajude a melhorar nossas cidades e promover um ambiente urbano mais sustentável. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato com nossa equipe.
+Obrigado por se interessar pelo projeto **AlertUp**! Esperamos que esta plataforma ajude a melhorar nossas cidades e promover um ambiente urbano mais sustentável. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato com nossa equipe.
