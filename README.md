@@ -12,13 +12,13 @@ Bem-vindo ao repositório do projeto **AlertUp**! Este é o Projeto Integrador d
 
 ## Equipe
 
-- **Breno Henrique**
-- **Julia Alexandrino**
-- **Matheus Queiroz**
-- **Paloma Ferreira**
-- **Roniberto Rodrigues**
-- **Shomara Quispe**
-- **Victor Paliari**
+- [**Breno Henrique**](https://github.com/brenonsc)
+- [**Julia Alexandrino**](https://github.com/juhalexandrino)
+- [**Matheus Queiroz**](https://github.com/MatheusSQueiroz)
+- [**Paloma Ferreira**](https://github.com/Paloma-Ferreira)
+- [**Roniberto Rodrigues**](https://github.com/RoninZin)
+- [**Shomara Quispe**](https://github.com/ShomaraQuispe)
+- [**Victor Paliari**](https://github.com/victorpaliari)
 
 <br>
 
